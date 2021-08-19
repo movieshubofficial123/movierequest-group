@@ -1,7 +1,7 @@
 <h2 align="center"><b>It'z Me <a href="https://t.me/AbinCr">ミ★ 𝘢𝘣𝘪𝘯 ★彡</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/CLaY9950/Auto-LooniV2-2-"><img src="https://telegra.ph/file/3ccccbdb70ca3fb14db06.jpg" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/movieshubofficial123/moviehelper"><img src="https://telegra.ph/file/3ccccbdb70ca3fb14db06.jpg" alt="Userge-x" width=400px></a>
    <br>
    <br>
   </a>
@@ -12,10 +12,10 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)..__
-
-__Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
-
+**LooNI 2.0** is a Powerful ,Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
+<br>
+<p align="center">
+    <a href="https://telegram.dog/moviesHubh2"><img src="https://img.shields.io/badge/Support%20Group-PFM--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
 
 ## Usage
 
