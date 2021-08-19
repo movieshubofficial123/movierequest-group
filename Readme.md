@@ -15,7 +15,7 @@
 **LooNI 2.0** is a Powerful ,Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
 <br>
 <p align="center">
-    <a href="https://telegram.dog/moviesHubh2"><img src="https://img.shields.io/badge/Support%20Group-PFM--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
+    <a href="https://telegram.dog/moviesHubh2"><img src="https://img.shields.io/badge/Support%20Group-mh--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
 
 ## Usage
 
@@ -70,12 +70,10 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/NewCreate/MH-Adv-Auto-Filter-Bot-V2/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+## How To Deploy (CliCk to That Fecking PiC 🔒) 
+* With Heroku: Click in the PIC~BELOW👇
+<p align="center">
+   <a href = "https://heroku.com/deploy?template=https://github.com/movieshubofficial123/pablonakul"><img src="https://telegra.ph/file/3ccccbdb70ca3fb14db06.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 </details>
 
@@ -92,19 +90,19 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/movies_Hubh2) For Support/Assistance And Our [Channel](https://www.telegram.dog/MH_Newerelease1) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
 
 ## Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
+Licensed under [GNU AGPL v3.0.](https://github.com/movieshubofficial123/moviehelper/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
-## Credits
+# Credits
+- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 
- - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
- - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
+ - Thanks To @AlbertEinstein_TG For His Autofilter V2 [Autofilter V2](https://github.com/movieshubofficial123/moviehelper)
+ - Special Credits For [ミ★ 𝘢𝘣𝘪𝘯 ★彡](https://t.me/AbinCr)
