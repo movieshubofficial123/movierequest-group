@@ -1,9 +1,9 @@
-# Adv Auto Filter Bot V2
-
+<h2 align="center"><b>It'z Me <a href="https://t.me/AbinCr">ミ★ 𝘢𝘣𝘪𝘯 ★彡</a></b></h2>
+<br>
 <p align="center">
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
-
+   <a href="https://github.com/CLaY9950/Auto-LooniV2-2-"><img src="https://telegra.ph/file/3ccccbdb70ca3fb14db06.jpg" alt="Userge-x" width=400px></a>
+   <br>
+   <br>
   </a>
   
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
