@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 ## How To Deploy (CliCk to That Fecking PiC 🔒) 
 * With Heroku: Click in the PIC~BELOW👇
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/movieshubofficial123/moviehelper"><img src="https://telegra.ph/file/3ccccbdb70ca3fb14db06.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/movieshubofficial123/moviehelper"><img src="https://telegra.ph/file/ed009d7d7c26baff82c3c.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 </details>
 
