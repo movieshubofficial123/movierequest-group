@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} Hi!!</b></u>
-<i>I'm Officially Made For <b>Movies Hub</b>....😉
+<i>I'm Officially Made For <b>@Movies Hub</b>....😉
 
 But Don't Waste Your Time ⏳
 
@@ -48,7 +48,7 @@ Use Our @movies_Hubh2 Group\n
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/movies_Hubh2">@movies_Hubh2</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/AbinCr">ミ★ 𝘢𝘣𝘪𝘯 ★彡</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
