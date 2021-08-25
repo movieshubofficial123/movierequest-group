@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '〽️ Our Group 〽️', url="https://t.me/movies_Hubh2"
+                                    '〽️ Our Group 〽️', url="https://t.me/joinchat/vDCioD5kJf9mODY5"
                                 )
                         ]
                     ]
@@ -47,11 +47,11 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('🎬 GROUP 📡', url='https://t.me/movies_Hubh2'),
-        InlineKeyboardButton('📺 CHANNEL 📡', url ='https://t.me/FilesMH')
+        InlineKeyboardButton('🎬 GROUP 📡', url='https://t.me/joinchat/vDCioD5kJf9mODY5'),
+        InlineKeyboardButton('📺 CHANNEL 📡', url ='https://t.me/joinchat/uY5ii5pbyTc4ZTQx')
     ],[
-        InlineKeyboardButton('〽️ New Release 〽️', url='https://t.me/MH_Newrelease1'),
-        InlineKeyboardButton('⚡️ MH Series ⚡️', url ='https://t.me/MH_Series1')
+        InlineKeyboardButton('〽️ New Release 〽️', url='https://t.me/joinchat/uY5ii5pbyTc4ZTQx'),
+        InlineKeyboardButton('⚡️ Series ⚡️', url ='https://t.me/joinchat/e0obLSJEh2MzN2Qx')
     ],[
         InlineKeyboardButton('➢ Share 🎗 Support  ➣', url='https://t.me/share/movies_Hubh2')
     ]]
